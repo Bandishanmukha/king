@@ -1,3 +1,4 @@
 #!/bin/bash/
 
-mkdir shanu143/t{1..2}
+mkdir shanu143
+touch t1 t2
